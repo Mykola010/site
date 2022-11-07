@@ -1,0 +1,18 @@
+
+  body {margin: 0;}
+  h1 {font-size: 2em;margin: 0.67em 0;}
+ a {background-color: transparent;}
+* {  -webkit-box-sizing: border-box;   -moz-box-sizing: border-box;  box-sizing: border-box;}
+  /*.clearfix:after {   content: "";   display:block;  clear: both;}*/
+  .header { height: 100px;background: #6CAEDD;color: #fff; border-radius: 200px; }
+  .footer { height: 150px; background: #364850;color: #fff; border-radius: 200px; }
+   .content-wrapper {   margin: 0 auto;  min-width: 200px;  max-width: 1000px; }
+  .content {  width: 100%;  float: left;  padding-right: 300px;}
+  .sidebar {  background: #FFD399;  float: left;  position: relative;}
+   .sidebar1 {  width: 300px;  margin-left: -300px;}
+  .photo{ width: 370px; border-radius: 200px; margin-left: 150px;}
+.photos{ width: 950px;}
+.photoss{ width: 400px;margin-left: 100px;}
+.photosss{width: 400px;}
+.skills{ margin-left : -21px; color: #FB6D3A; margin-top: px;}
+.skills3{line-height: 40px;}
