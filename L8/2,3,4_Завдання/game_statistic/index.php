@@ -36,7 +36,7 @@
             <td><?= $product[3] ?></td> 
             <td><?= $product[4] ?></td>
             
-            <td><a href="product.php?id=<?= $product[0] ?>">Review</a></td>
+            <td><a href="statistic.php?id=<?= $product[0] ?>">Review</a></td>
             <td><a href="update.php?id=<?= $product[0] ?>">Change</a></td>
             <td><a href="vendor/delete.php?id=<?= $product[0] ?>">Delete</a></td> 
           </tr>
